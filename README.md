@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Olá! Eu sou Thiago Pontes.
 
-<!--
-**TPontesdev/TPontesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Foco de interesse: Desenvolvimento Web.
 
-Here are some ideas to get you started:
+💻 Tecnologias: HTML, CSS, JavaScript e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projetos: EM CONSTRUÇÂO
+
+🌎 Organizações: Sou um membro ativo da comunidade da DIO.me , onde contribuo como voluntário em projetos de código aberto. Além disso, faço parte do grupo de desenvolvedores do Rocketseat, onde ajudo a desenvolver temas para a plataforma. 
+
+🔗 Links: https://www.linkedin.com/in/thpontes07/
+
+🎮 Interesses pessoais: Sou um grande fã de videogames e costumo jogar em meu tempo livre. Também gosto de viajar, explorar novas culturas e experimentar novas comidas. Por fim, sou um amante de café e gosto de experimentar novos cafés ao redor da cidade.
+
